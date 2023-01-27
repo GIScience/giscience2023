@@ -38,9 +38,9 @@ In addition, **practical hands-on sessions** will be offered by organizers for i
 ### Preliminary program
 
 #### Part 1: Focus on conceptual perspective
-9:00 – 9:30: Welcome and introduction round  
-9:30 – 9:40: Introduction to the “open space” format  
-9:40 – 10:00: Collection of discussion topics and agenda planning: focus on conceptual topics   
+09:00 – 09:30: Welcome and introduction round  
+09:30 – 09:40: Introduction to the “open space” format  
+09:40 – 10:00: Collection of discussion topics and agenda planning: focus on conceptual topics   
 10:00 – 11:30: Open space sessions (incl. coffee breaks)  
 11:30 – 12:00: Group presentation of session results  
 
