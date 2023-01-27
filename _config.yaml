@@ -1,7 +1,7 @@
 plugins:
   - jekyll-relative-links
-name: Workshop on Centrality Indicators in Road Network Analysis: from concept to implementation
-title: Workshop on Centrality Indicators in Road Network Analysis: from concept to implementation
+name: "Workshop on Centrality Indicators in Road Network Analysis: from concept to implementation"
+title: "Workshop on Centrality Indicators in Road Network Analysis: from concept to implementation"
 relative_links:
   enabled: true
   collections: true
