@@ -35,8 +35,6 @@ In addition, **practical hands-on sessions** will be offered by organizers for i
 - How to set up a local docker instance of openrouteservice on your computer
 
 
-
-
 ### Preliminary program
 
 #### Part 1: Focus on conceptual perspective
@@ -57,8 +55,8 @@ inspired by previous discussions, hands-on session on openrouteservice
 Times are preliminary and will be adapted to the conference schedule.
 
 ## Registration
-Conference attendees interested in participating in the workshop may send an email to christina.ludwig@heigit.org with 
-a short paragraph explaining their motivation to participate in the workshop until 30.06.2023. The workshop is limited 
+Conference attendees interested in participating in the workshop may **send an email to christina.ludwig@heigit.org** with 
+a short paragraph explaining their motivation to participate in the workshop **until 30.06.2023**. The workshop is limited 
 to 20 people.  
 
 Participation in the hands-on tutorials requires participants to bring their own laptop and installing the required 
