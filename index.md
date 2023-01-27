@@ -77,7 +77,7 @@ routing service based on OpenStreetMap data, which is developed and provided as 
 
 <img src='./img/heigit.png'>
 <img src='./img/giscience.svg'>
-<img src='./img/university.jpeg'>
+<img src='./img/university.jpg'>
 
 
 ### Literature
