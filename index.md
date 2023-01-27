@@ -9,7 +9,7 @@ patterns) should be integrated and how to efficiently calculate centrality indic
 
 This workshop will provide a platform to discuss and learn about centrality indicators both at a conceptual as well as 
 a technical implementation level. In addition, hands-on sessions on how to calculate centrality indicators using 
-openrouteservice will be offered by the organisers to interested participants. 
+[openrouteservice](https://openrouteservice.org/) will be offered by the organisers to interested participants. 
 
 ### Workshop Format
 The workshop will be done in a “open-space” format, where participants themselves suggest topics and decide on the 
@@ -30,9 +30,9 @@ their limitations?
 
 In addition, **practical hands-on sessions** will be offered by organisers for interested participants:
 
-- What is openrouteservice? How to send API requests
-- How to calculate different centrality measures using openrouteservice
-- How to set up a local docker instance of openrouteservice on your computer
+- What is [openrouteservice](https://openrouteservice.org/)? How to send API requests?
+- How to calculate different centrality measures using openrouteservice?
+- How to set up a local docker instance of openrouteservice on your computer?
 
 
 ### Preliminary program
@@ -63,19 +63,19 @@ Participation in the hands-on tutorials requires participants to bring their own
 software prior to the workshop. Installation instructions will be sent out at least two weeks before the conference.
 
 ## Workshop organisers
-Christina Ludwig, GIScience Research Group, Heidelberg University & Heidelberg Institute for Geoinformation Technology (HeiGIT) gGmbH   
-Marcel Reinmuth, Heidelberg Institute for Geoinformation Technology (HeiGIT) gGmbH at Heidelberg University,
-Germany   
-Adam Rousell, Heidelberg Institute for Geoinformation Technology (HeiGIT) gGmbH at Heidelberg University,
-Germany    
-Alexander Zipf, GIScience Research Group, Heidelberg University & Heidelberg Institute for Geoinformation Technology (HeiGIT) gGmbH  
+Christina Ludwig<sup>1,2</sup>  
+Marcel Reinmuth<sup>2</sup>  
+Adam Rousell<sup>2</sup>  
+Alexander Zipf<sup>1,2</sup> 
 
-HeiGIT and the GIScience Research Group work closely together with the aim of transferring fundamental research in 
+<sup>1</sup> GIScience Research Group, Institut of Geography, Heidelberg University, Germany
+<sup>2</sup> Heidelberg Institute for Geoinformation Technology (HeiGIT) gGmbH at Heidelberg University, Germany
+
+[HeiGIT](https://heigit.org/) and the [GIScience Research Group](https://www.geog.uni-heidelberg.de/giscience.html) work closely together with the aim of transferring fundamental research in 
 geoinformatics to practical applications. Within this collaboration we have performed road network analyses in the 
 context of disaster preparedness (Petricola et al., 2022), pedestrian and bike routing (Ludwig et al., 2021, Hatfield 
 et al., 2022) and traffic modelling (Zia et al., 2022). All of these studies used openrouteservice, an open-source 
 routing service based on OpenStreetMap data, which is developed and provided as a public service by HeiGIT gGmbH.
-
 
 <table>
 	<tr>
