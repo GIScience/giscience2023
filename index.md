@@ -74,9 +74,10 @@ context of disaster preparedness (Petricola et al., 2022), pedestrian and bike r
 et al., 2022) and traffic modelling (Zia et al., 2022). All of these studies used openrouteservice, an open-source 
 routing service based on OpenStreetMap data, which is developed and provided as a public service by HeiGIT gGmbH.
 
+
 <img src='./img/heigit.png'>
-<img src='./img/giscience.png'>
-<img src='./img/university.png'>
+<img src='./img/giscience.svg'>
+<img src='./img/university.jpeg'>
 
 
 ### Literature
