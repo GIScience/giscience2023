@@ -1,5 +1,6 @@
 # Workshop on Centrality Indicators in Road Network Analysis: from concept to implementation
-GIScience Conference, Leeds, UK, September 12, 2023
+
+*GIScience Conference, Leeds, UK, September 12, 2023*
 
 Centrality indicators are used to identify important nodes or edges in graph networks. Applied to road networks these 
 indicators can for example be used to model traffic speed or identify critical roads to support disaster preparedness. 
@@ -18,18 +19,20 @@ beginning of the workshop.
 
 **Discussion topics** for the session will be proposed and selected by the participants. Possible topics may be but are 
 not limited to:
-•	How are centrality indicators applied in the geospatial realm?
-•	What are current challenges, limitations or open questions?
-•	How can centrality indicators be adapted, improved or extended?
-•	Which software packages are available to calculate centrality indicators for road network analysis? What are 
+
+- How are centrality indicators applied in the geospatial realm? 
+- What are current challenges, limitations or open questions?
+- How can centrality indicators be adapted, improved or extended?
+- Which software packages are available to calculate centrality indicators for road network analysis? What are 
 their limitations?
-•	What are the software requirements to calculate more advanced and meaningful geospatial centrality indicators?
-•	How to get from conceptual research over proof-of-concepts to ready-to use software to support policy makers?
+- What are the software requirements to calculate more advanced and meaningful geospatial centrality indicators?
+- How to get from conceptual research over proof-of-concepts to ready-to use software to support policy makers?
 
 In addition, **practical hands-on sessions** will be offered by organizers for interested participants:
-•	What is openrouteservice? How to send API requests
-•	How to calculate different centrality measures using openrouteservice
-•	How to set up a local docker instance of openrouteservice on your computer
+
+- What is openrouteservice? How to send API requests
+- How to calculate different centrality measures using openrouteservice
+- How to set up a local docker instance of openrouteservice on your computer
 
 
 
@@ -37,19 +40,19 @@ In addition, **practical hands-on sessions** will be offered by organizers for i
 ### Preliminary program
 
 #### Part 1: Focus on conceptual perspective
-9:00 – 9:30: Welcome and introduction round
-9:30 – 9:40: Introduction to the “open space” format
-9:40 – 10:00: Collection of discussion topics and agenda planning: focus on conceptual topics 
-10:00 – 11:30: Open space sessions (incl. coffee breaks)
-11:30 – 12:00: Group presentation of session results
+9:00 – 9:30: Welcome and introduction round  
+9:30 – 9:40: Introduction to the “open space” format  
+9:40 – 10:00: Collection of discussion topics and agenda planning: focus on conceptual topics   
+10:00 – 11:30: Open space sessions (incl. coffee breaks)  
+11:30 – 12:00: Group presentation of session results  
 
 LUNCH BREAK
 
 #### Part 2: Focus on technical perspective
 13:00 – 13:30: Collection of topics/activities and agenda planning: further discussions, collaborative activities 
-inspired by previous discussions, hands-on session on openrouteservice
-13:30 – 15:30: Open space sessions (incl. coffee breaks)
-15:30 – 16:00: Group presentation of session results
+inspired by previous discussions, hands-on session on openrouteservice  
+13:30 – 15:30: Open space sessions (incl. coffee breaks)  
+15:30 – 16:00: Group presentation of session results  
 
 Times are preliminary and will be adapted to the conference schedule.
 
@@ -79,15 +82,15 @@ routing service based on OpenStreetMap data, which is developed and provided as 
 
 
 ### Literature
-Hatfield, C., Ludwig,C., Moritz, M., Mukaratirwa, R., Randhawa, S., Reinmuth, M. (2022): The Green 15-Minute City: 
-Submission to the Open Source Software for SDG (OSS4SDG) Hackathon 2022. https://github.com/GIScience/green-15min-city
-Ludwig, C., Lautenbach, S., Schömann, E. M., & Zipf, A. (2021). Comparison of Simulated Fast and Green Routes for 
+- Hatfield, C., Ludwig,C., Moritz, M., Mukaratirwa, R., Randhawa, S., Reinmuth, M. (2022): The Green 15-Minute City: 
+Submission to the Open Source Software for SDG (OSS4SDG) Hackathon 2022. https://github.com/GIScience/green-15min-city  
+- Ludwig, C., Lautenbach, S., Schömann, E. M., & Zipf, A. (2021). Comparison of Simulated Fast and Green Routes for 
 Cyclists and Pedestrians. In 11th International Conference on Geographic Information Science (GIScience 2021)-Part II. 
-Schloss Dagstuhl-Leibniz-Zentrum für Informatik.
-Petricola, S., Reinmuth, M., Lautenbach, S. et al. Assessing road criticality and loss of healthcare accessibility 
-during floods: the case of Cyclone Idai, Mozambique 2019. Int J Health Geogr 21, 14 (2022). 
-https://doi.org/10.1186/s12942-022-00315-2
-Zia, M.; Fürle, J.; Ludwig, C.; Lautenbach, S.; Gumbrich, S.; Zipf, A. SocialMedia2Traffic: Derivation of Traffic 
+Schloss Dagstuhl-Leibniz-Zentrum für Informatik.  
+- Petricola, S., Reinmuth, M., Lautenbach, S. et al. Assessing road criticality and loss of healthcare accessibility 
+during floods: the case of Cyclone Idai, Mozambique 2019. Int J Health Geogr 21, 14 (2022).   
+https://doi.org/10.1186/s12942-022-00315-2  
+- Zia, M.; Fürle, J.; Ludwig, C.; Lautenbach, S.; Gumbrich, S.; Zipf, A. SocialMedia2Traffic: Derivation of Traffic 
 Information from Social Media Data. ISPRS Int. J. Geo-Inf. 2022, 11, 482. https://doi.org/10.3390/ijgi11090482
 
 
