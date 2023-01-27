@@ -75,9 +75,9 @@ et al., 2022) and traffic modelling (Zia et al., 2022). All of these studies use
 routing service based on OpenStreetMap data, which is developed and provided as a public service by HeiGIT gGmbH.
 
 
-<img src='./img/heigit.png'>
-<img src='./img/giscience.svg'>
-<img src='./img/university.png'>
+<img src='./img/heigit.png' height='150'>
+<img src='./img/giscience.png' heigth='150'>
+<img src='./img/uni.svg' heigth='150'>
 
 
 ### Literature
