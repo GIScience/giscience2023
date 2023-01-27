@@ -63,10 +63,12 @@ Participation in the hands-on tutorials requires participants to bring their own
 software prior to the workshop. Installation instructions will be sent out at least two weeks before the conference.
 
 ## Workshop organisers
-Christina Ludwig, GIScience Research Group, Heidelberg University and HeiGIT gGmbH  
-Marcel Reinmuth, HeiGIT gGmbH  
-Adam Rousell, HeiGIT gGmbH  
-Alexander Zipf, GIScience Research Group, Heidelberg University and HeiGIT gGmbH  
+Christina Ludwig, GIScience Research Group, Heidelberg University & Heidelberg Institute for Geoinformation Technology (HeiGIT) gGmbH   
+Marcel Reinmuth, Heidelberg Institute for Geoinformation Technology (HeiGIT) gGmbH at Heidelberg University,
+Germany   
+Adam Rousell, Heidelberg Institute for Geoinformation Technology (HeiGIT) gGmbH at Heidelberg University,
+Germany    
+Alexander Zipf, GIScience Research Group, Heidelberg University & Heidelberg Institute for Geoinformation Technology (HeiGIT) gGmbH  
 
 HeiGIT and the GIScience Research Group work closely together with the aim of transferring fundamental research in 
 geoinformatics to practical applications. Within this collaboration we have performed road network analyses in the 
