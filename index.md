@@ -55,8 +55,8 @@ inspired by previous discussions, hands-on session on openrouteservice
 Times are preliminary and will be adapted to the conference schedule.
 
 ## Registration
-Conference attendees interested in participating in the workshop may **send an email to christina.ludwig@heigit.org until 30.06.2023** with 
-a short paragraph explaining their motivation to participate in the workshop . The workshop is limited 
+Conference attendees interested in participating in the workshop may send an email to christina.ludwig@heigit.org **until 30.06.2023** with 
+a short paragraph explaining their motivation to participate in the workshop. The workshop is limited 
 to 20 people.  
 
 Participation in the hands-on tutorials requires participants to bring their own laptop and installing the required 
@@ -68,13 +68,13 @@ Marcel Reinmuth<sup>2</sup>
 Adam Rousell<sup>2</sup>  
 Alexander Zipf<sup>1,2</sup> 
 
-<sup>1</sup> GIScience Research Group, Institut of Geography, Heidelberg University, Germany
-<sup>2</sup> Heidelberg Institute for Geoinformation Technology (HeiGIT) gGmbH at Heidelberg University, Germany
+<sup>1</sup> [GIScience Research Group](https://www.geog.uni-heidelberg.de/giscience.html), Institut of Geography, Heidelberg University, Germany  
+<sup>2</sup> [Heidelberg Institute for Geoinformation Technology (HeiGIT) gGmbH](https://heigit.org/) at Heidelberg University, Germany
 
 [HeiGIT](https://heigit.org/) and the [GIScience Research Group](https://www.geog.uni-heidelberg.de/giscience.html) work closely together with the aim of transferring fundamental research in 
 geoinformatics to practical applications. Within this collaboration we have performed road network analyses in the 
-context of disaster preparedness (Petricola et al., 2022), pedestrian and bike routing (Ludwig et al., 2021, Hatfield 
-et al., 2022) and traffic modelling (Zia et al., 2022). All of these studies used openrouteservice, an open-source 
+context of disaster preparedness ([Petricola et al., 2022](https://doi.org/10.1186/s12942-022-00315-2)), pedestrian and bike routing ([Ludwig et al., 2021](https://doi.org/10.4230/LIPIcs.GIScience.2021.II.3), [Hatfield 
+et al., 2022](https://github.com/GIScience/green-15min-city)) and traffic modelling ([Zia et al., 2022](https://doi.org/10.3390/ijgi11090482)). All of these studies used openrouteservice, an open-source 
 routing service based on OpenStreetMap data, which is developed and provided as a public service by HeiGIT gGmbH.
 
 <table>
