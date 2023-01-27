@@ -9,7 +9,7 @@ patterns) should be integrated and how to efficiently calculate centrality indic
 
 This workshop will provide a platform to discuss and learn about centrality indicators both at a conceptual as well as 
 a technical implementation level. In addition, hands-on sessions on how to calculate centrality indicators using 
-openrouteservice will be offered by the organizers to interested participants. 
+openrouteservice will be offered by the organisers to interested participants. 
 
 ### Workshop Format
 The workshop will be done in a “open-space” format, where participants themselves suggest topics and decide on the 
@@ -28,7 +28,7 @@ their limitations?
 - What are the software requirements to calculate more advanced and meaningful geospatial centrality indicators?
 - How to get from conceptual research over proof-of-concepts to ready-to use software to support policy makers?
 
-In addition, **practical hands-on sessions** will be offered by organizers for interested participants:
+In addition, **practical hands-on sessions** will be offered by organisers for interested participants:
 
 - What is openrouteservice? How to send API requests
 - How to calculate different centrality measures using openrouteservice
@@ -62,7 +62,7 @@ to 20 people.
 Participation in the hands-on tutorials requires participants to bring their own laptop and installing the required 
 software prior to the workshop. Installation instructions will be sent out at least two weeks before the conference.
 
-## Workshop organizers
+## Workshop organisers
 Christina Ludwig, GIScience Research Group, Heidelberg University and HeiGIT gGmbH  
 Marcel Reinmuth, HeiGIT gGmbH  
 Adam Rousell, HeiGIT gGmbH  
@@ -75,21 +75,25 @@ et al., 2022) and traffic modelling (Zia et al., 2022). All of these studies use
 routing service based on OpenStreetMap data, which is developed and provided as a public service by HeiGIT gGmbH.
 
 
-<img src='./img/heigit.png' height='150'>
-<img src='./img/giscience.png' heigth='150'>
-<img src='./img/uni.svg' heigth='150'>
+<table>
+	<tr>
+		<th><img src='./img/heigit.png' height='100'></th>
+		<th><img src='./img/giscience.png' height='100'></th>
+		<th><img src='./img/uni.svg' height='100'></th>
+	</tr>
+</table>
 
 
-### Literature
-- Hatfield, C., Ludwig,C., Moritz, M., Mukaratirwa, R., Randhawa, S., Reinmuth, M. (2022): The Green 15-Minute City: 
-Submission to the Open Source Software for SDG (OSS4SDG) Hackathon 2022. https://github.com/GIScience/green-15min-city  
-- Ludwig, C., Lautenbach, S., Schömann, E. M., & Zipf, A. (2021). Comparison of Simulated Fast and Green Routes for 
-Cyclists and Pedestrians. In 11th International Conference on Geographic Information Science (GIScience 2021)-Part II. 
-Schloss Dagstuhl-Leibniz-Zentrum für Informatik.  
-- Petricola, S., Reinmuth, M., Lautenbach, S. et al. Assessing road criticality and loss of healthcare accessibility 
-during floods: the case of Cyclone Idai, Mozambique 2019. Int J Health Geogr 21, 14 (2022).   
-https://doi.org/10.1186/s12942-022-00315-2  
-- Zia, M.; Fürle, J.; Ludwig, C.; Lautenbach, S.; Gumbrich, S.; Zipf, A. SocialMedia2Traffic: Derivation of Traffic 
-Information from Social Media Data. ISPRS Int. J. Geo-Inf. 2022, 11, 482. https://doi.org/10.3390/ijgi11090482
+### References
 
+- Hatfield, C., Ludwig,C., Moritz, M., Mukaratirwa, R., Randhawa, S., Reinmuth, M. (2022): [The Green 15-Minute City: 
+Submission to the Open Source Software for SDG (OSS4SDG) Hackathon 2022](https://github.com/GIScience/green-15min-city)
+- Ludwig, C., Lautenbach, S., Schömann, E. M., & Zipf, A. (2021). [Comparison of Simulated Fast and Green Routes for 
+Cyclists and Pedestrians](https://doi.org/10.4230/LIPIcs.GIScience.2021.II.3)  . In 11th International Conference on Geographic Information Science (GIScience 2021)-Part II. 
+Schloss Dagstuhl-Leibniz-Zentrum für Informatik.
+- Petricola, S., Reinmuth, M., Lautenbach, S. et al. [Assessing road criticality and loss of healthcare accessibility 
+during floods: the case of Cyclone Idai, Mozambique 2019](https://doi.org/10.1186/s12942-022-00315-2). Int J Health Geogr 21, 14 (2022).
+- Zia, M.; Fürle, J.; Ludwig, C.; Lautenbach, S.; Gumbrich, S.; Zipf, A. [SocialMedia2Traffic: Derivation of Traffic 
+Information from Social Media Data](https://doi.org/10.3390/ijgi11090482)
+. ISPRS Int. J. Geo-Inf. 2022, 11, 482.
 
