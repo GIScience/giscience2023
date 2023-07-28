@@ -55,7 +55,7 @@ inspired by previous discussions, hands-on session on openrouteservice
 Times are preliminary and will be adapted to the conference schedule.
 
 ## Registration
-Conference attendees interested in participating in the workshop can sign up for the workshop during registration for the conference. If there still capacities, joining on the day of the workshop is possible, too. The workshop is limited to 20 people.  
+Conference attendees interested in participating in the workshop can sign up for the workshop during registration for the conference. If there are still capacities, joining on the day of the workshop is possible, too. The workshop is limited to 20 people.  
 
 Participation in the hands-on tutorials requires participants to bring their own laptop and installing the required 
 software prior to the workshop. Installation instructions will be sent out at least two weeks before the conference.
