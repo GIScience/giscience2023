@@ -55,9 +55,7 @@ inspired by previous discussions, hands-on session on openrouteservice
 Times are preliminary and will be adapted to the conference schedule.
 
 ## Registration
-Conference attendees interested in participating in the workshop may send an email to christina.ludwig@heigit.org **until 30.06.2023** with 
-a short paragraph explaining their motivation to participate in the workshop. The workshop is limited 
-to 20 people.  
+Conference attendees interested in participating in the workshop can sign up for the workshop during registration for the conference. The workshop is limited to 20 people.  
 
 Participation in the hands-on tutorials requires participants to bring their own laptop and installing the required 
 software prior to the workshop. Installation instructions will be sent out at least two weeks before the conference.
