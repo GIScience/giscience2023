@@ -1,4 +1,4 @@
-# Workshop on Centrality Indicators in Road Network Analysis: from concept to implementation
+# Centrality Indicators in Road Network Analysis: from concept to implementation
 
 *GIScience Conference, Leeds, UK, September 12, 2023*
 
