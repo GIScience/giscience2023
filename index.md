@@ -11,6 +11,8 @@ This workshop will provide a platform to discuss and learn about centrality indi
 a technical implementation level. In addition, hands-on sessions on how to calculate centrality indicators using 
 [openrouteservice](https://openrouteservice.org/) will be offered by the organisers to interested participants. 
 
+![./img/centrality.png](./img/centrality.png)
+
 ### Workshop Format
 The workshop will be done in a “open-space” format, where participants themselves suggest topics and decide on the 
 agenda. This enables participants to adapt the workshop according to their interests and encourages exchange between 
