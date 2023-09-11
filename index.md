@@ -62,6 +62,11 @@ Conference attendees interested in participating in the workshop can sign up for
 Participation in the hands-on tutorials requires participants to bring their own laptop and installing the required 
 software prior to the workshop. Installation instructions will be sent out at least two weeks before the conference.
 
+## Workshop material 
+- [Shared ChaosPad](https://pads.ccc.de/dChloRwJCH): Here we will also share links to other resources
+- [Practical introduction to openrouteservice](https://giscience.github.io/openrouteservice-workshop/intro.html)
+
+
 ## Workshop organisers
 Christina Ludwig<sup>1,2</sup>  
 Marcel Reinmuth<sup>2</sup>  
